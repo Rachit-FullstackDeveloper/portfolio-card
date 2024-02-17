@@ -143,14 +143,15 @@ a {
   background-size: 150%;
 }
 .btn--icon {
-  height: 46px;
-  width: 46px;
-  border-radius: 50%;
-  border: 3px solid #343945;
-  color: #0833bf;
+  border-radius: 99em;
+  background-color: #3772ff;
+  background-image: linear-gradient(135deg, #5587ff, #3772ff);
+  color: #fff;
+  padding: 0 1.375em;
 }
 .btn--icon:hover {
-  border-color: #ffffff;
+  background: red;
+  border: 3px solid rgb(255, 255, 255);
 }
 .profile-links {
   margin-top: 1.5rem;
