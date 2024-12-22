@@ -126,14 +126,14 @@ a {
 }
 .btn--primary {
   border-radius: 99em;
-  background-color: #3772ff;
+  background-color: #1E1E1F;
   background-image: linear-gradient(135deg, #1E1E1F, #1E1E1F);
   color: #fff;
-  padding: 0 1.375em;
+  padding: 0 1.375em; 
   border: 1px solid rgb(255, 255, 255);
 }
 .btn:hover {
-  background-color: #1969d8;
+  background-color: #1E1E1F;
 }
 .untoldcoding:hover {
   background: #FFBE5E;
@@ -146,7 +146,7 @@ a {
 }
 .btn--icon {
   border-radius: 99em;
-  background-color: #3772ff;
+  background-color: #1E1E1F;
   background-image: linear-gradient(135deg, #1E1E1F, #1E1E1F);
   color: #fff;
   padding: 0 1.375em;
